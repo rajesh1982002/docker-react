@@ -11,23 +11,9 @@ function App() {
         <p>
         What's going on Thakur ? ?
         </p>
-        <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
+        <p> Hello I am just writing some stupid things here to check the builds.</p>
+        <h1 style="background-color:DodgerBlue;">Hello World</h1>
+        <p style="background-color:Tomato;">Lorem ipsum...</p>
         <a
           className="App-link"
           href="https://reactjs.org"
