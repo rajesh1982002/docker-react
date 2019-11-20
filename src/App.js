@@ -6,9 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+        <img  src="https://thumbs.gfycat.com/FormalShrillDairycow-size_restricted.gif"></img>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        What's going on Thakur ? ?
         </p>
         <a
           className="App-link"
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         chal hat  *  **ye
         </a>
       </header>
     </div>
