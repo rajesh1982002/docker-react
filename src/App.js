@@ -9,7 +9,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <img  src="https://thumbs.gfycat.com/FormalShrillDairycow-size_restricted.gif"></img>
         <p>
-        What's going on Thakur ? ?
+        What's going on ? ?
         </p>
         <a
           className="App-link"
@@ -19,6 +19,11 @@ function App() {
         >
          chal hat  *  **ye
         </a>
+        <ol type="1">
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ol>
       </header>
     </div>
   );
