@@ -19,6 +19,11 @@ function App() {
         >
          chal hat  *  **ye
         </a>
+        <ol type="1">
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ol>
       </header>
     </div>
   );
