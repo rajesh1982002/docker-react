@@ -9,11 +9,8 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <img  src="https://thumbs.gfycat.com/FormalShrillDairycow-size_restricted.gif"></img>
         <p>
-        What's going on Thakur ? ?
+        What's going on ? ?
         </p>
-        <p> Hello I am just writing some stupid things here to check the builds.</p>
-        <h1 style="background-color:DodgerBlue;">Hello World</h1>
-        <p style="background-color:Tomato;">Lorem ipsum...</p>
         <a
           className="App-link"
           href="https://reactjs.org"
